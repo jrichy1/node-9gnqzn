@@ -1,36 +1,45 @@
-# node-9gnqzn
+# 👋 Welcome to A Product
 
-Created with StackBlitz ⚡️
-Developer Certificate of Origin
-Version 1.1
+{% hint style="info" %}
+**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+{% endhint %}
 
-Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
+## Overview
 
-Everyone is permitted to copy and distribute verbatim copies of this
-license document, but changing it is not allowed.
+Here are a couple of example overviews from products with really great docs:
 
-Developer's Certificate of Origin 1.1
+> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+>
+> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+>
+> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-By making a contribution to this project, I certify that:
+> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
+>
+> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-(a) The contribution was created in whole or in part by me and I
-    have the right to submit it under the open source license
-    indicated in the file; or
+## Quick links
 
-(b) The contribution is based upon previous work that, to the best
-    of my knowledge, is covered under an appropriate open source
-    license and I have the right under that license to submit that
-    work with modifications, whether created in whole or in part
-    by me, under the same open source license (unless I am
-    permitted to submit under a different license), as indicated
-    in the file; or
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
+{% endcontent-ref %}
 
-(c) The contribution was provided directly to me by some other
-    person who certified (a), (b) or (c) and I have not modified
-    it.
+{% content-ref url="overview/our-features.md" %}
+[our-features.md](overview/our-features.md)
+{% endcontent-ref %}
 
-(d) I understand and agree that this project and the contribution
-    are public and that a record of the contribution (including all
-    personal information I submit with it, including my sign-off) is
-    maintained indefinitely and may be redistributed consistent with
-    this project or the open source license(s) involved.
+## Get Started
+
+We've put together some helpful guides for you to get setup with our product quickly and easily.
+
+{% content-ref url="fundamentals/getting-set-up/" %}
+[getting-set-up](fundamentals/getting-set-up/)
+{% endcontent-ref %}
+
+{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% endcontent-ref %}
+
+{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
+[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% endcontent-ref %}
